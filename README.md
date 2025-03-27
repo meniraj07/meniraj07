@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Niraj</h1>
+<h1 align="center">Hi 👋, I'm Niraj Kumar</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
-- 🔭 I’m currently working on **Backend Projects**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meniraj07&label=Profile%20views&color=0e75b6&style=flat" alt="meniraj07" /> </p>
+
+- 🔭 I’m currently working on **FullStack Projects**
 
 - 🌱 I’m currently learning **AI/ML**
 
@@ -9,7 +11,7 @@
 
 - 📫 How to reach me **nirajthekumar07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MOKkXKbMC-GY_sQDHJ1RhFuOnwc_YzZE/view?usp=drive_link](https://drive.google.com/file/d/1MOKkXKbMC-GY_sQDHJ1RhFuOnwc_YzZE/view?usp=drive_link)
+- 📄 Know about my experiences [https://shorturl.at/Nay4i](https://shorturl.at/Nay4i)
 
 - ⚡ Fun fact **I'm comming to teen**
 
@@ -28,4 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meniraj07&show_icons=true&locale=en&layout=compact" alt="meniraj07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meniraj07&show_icons=true&locale=en" alt="meniraj07" /></p>
-
